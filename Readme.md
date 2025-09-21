@@ -8,6 +8,7 @@ pip install opencv-python mediapipe
 
 效果
 
-![sample](E:\python\homework\sample.png)
+![sample](https://github.com/xuemanya/homework/blob/main/sample.png)
+
 
 按**q**退出程序
