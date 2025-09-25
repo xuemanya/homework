@@ -1,3 +1,4 @@
+# author: 通信2301 肖远志 202331223130
 import cv2
 import mediapipe as mp
 
@@ -97,3 +98,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
